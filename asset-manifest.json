@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Gif-Expert-App/static/css/main.75ae56f5.chunk.css",
+    "main.js": "/Gif-Expert-App/static/js/main.88fa8ccf.chunk.js",
+    "main.js.map": "/Gif-Expert-App/static/js/main.88fa8ccf.chunk.js.map",
+    "runtime-main.js": "/Gif-Expert-App/static/js/runtime-main.938d8dca.js",
+    "runtime-main.js.map": "/Gif-Expert-App/static/js/runtime-main.938d8dca.js.map",
+    "static/js/2.1db339a3.chunk.js": "/Gif-Expert-App/static/js/2.1db339a3.chunk.js",
+    "static/js/2.1db339a3.chunk.js.map": "/Gif-Expert-App/static/js/2.1db339a3.chunk.js.map",
+    "index.html": "/Gif-Expert-App/index.html",
+    "static/css/main.75ae56f5.chunk.css.map": "/Gif-Expert-App/static/css/main.75ae56f5.chunk.css.map",
+    "static/js/2.1db339a3.chunk.js.LICENSE.txt": "/Gif-Expert-App/static/js/2.1db339a3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.938d8dca.js",
+    "static/js/2.1db339a3.chunk.js",
+    "static/css/main.75ae56f5.chunk.css",
+    "static/js/main.88fa8ccf.chunk.js"
+  ]
+}
